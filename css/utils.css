@@ -230,6 +230,7 @@ body.error-active .error__overlay {
   left: 50%;
   transform: translate(-50%,0);
   background-color: var(--fourth-brand-color);
+  z-index: -1;
 }
 
 }
